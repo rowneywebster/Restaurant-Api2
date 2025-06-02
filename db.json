@@ -1,0 +1,534 @@
+{
+    "restaurants": [
+      {
+        "id": 1,
+        "name": "Lucca",
+        "address": "Villa Rosa Kempinski, Chiromo Road, Westlands, Nairobi, Kenya",
+        "cuisines": ["Italian"],
+        "menu": [
+          {
+            "category": "Freshly made pastas",
+            "foods": [
+              "Gnocchi alla crema di tartufo",
+              "Rigatoni al forno",
+              "Ravioli di ricotta e spinaci con burro salvia"
+            ],
+            "image": "https://i.im.ge/2025/05/30/v4Iruh.Gnocchi-alla-crema-di-tartufo.png"
+          },
+          {
+            "category": "Wood-fired pizzas",
+            "foods": [
+              "Pizza Margherita",
+              "Pizza Mediterranea",
+              "Pizza Tonno e Cipolla"
+            ],
+            "image": "https://i.im.ge/2025/05/30/v4LDaF.Pizza-Margherita.png"
+          },
+          {
+            "category": "Hearty mains",
+            "foods": [
+              "Filetto di manzo (rosemary grilled beef tenderloin)",
+              "Letto di suino brasato lento (barbecue pork loin)",
+              "Salmone alla griglia (pan-grilled salmon fillet)"
+            ],
+            "image": "https://i.im.ge/2025/05/30/v4DreT.Filetto-di-manzo.png"
+          },
+          {
+            "category": "Seafood specialties",
+            "foods": [
+              "Risotto alla pescatora (seafood risotto)",
+              "Frutti di mare dishes"
+            ],
+            "image": "https://i.im.ge/2025/05/30/v4DZIT.Frutti-di-mare.png"
+          },
+          {
+            "category": "Desserts",
+            "foods": ["Classica tiramisu", "Crema di funghi al tartufo"],
+            "image": "https://i.im.ge/2025/05/30/v478aK.Classica-tiramisu.png"
+          }
+        ],
+        "rating": 4.8,
+        "hours": "7:00 AM \u2013 11:00 PM",
+        "reviews": [
+          "Loved the ambiance and the food.",
+          "Authentic Italian flavors,",
+          "Whether you're seeking a romantic dinner, a family gathering,or a business lunch, Lucca offers a sophisticated yet welcoming setting to enjoy the best of Italian cuisine in Nairobi"
+        ],
+        "image": "https://i.im.ge/2025/05/30/v4adJG.lucarestaurant.jpeg"
+      },
+      {
+        "id": 2,
+        "name": "Open House",
+        "address": "Ring Road Westlands, opposite The Mall, Nairobi",
+        "cuisines": ["Indian"],
+        "menu": [
+          {
+            "category": "staters",
+            "foods": [
+              "Special ginger",
+              "chicken wings",
+              "tandoori chicken wings",
+              "chicken malai tikka"
+            ],
+            "image": "https://i.im.ge/2025/05/30/v4LwB4.tandoori-chicken-wings.png"
+          },
+          {
+            "category": "Mains",
+            "foods": [
+              "Butter chicken",
+              "chicken tikka masala",
+              "lamb rogan josh",
+              "palak paneer"
+            ],
+            "image": "https://i.im.ge/2025/05/30/v4Ldoy.palak-paneer.png"
+          },
+          {
+            "category": "Seafood",
+            "foods": ["Garlic prawns", "fish amritsari"],
+            "image": "https://i.im.ge/2025/05/30/v4DCvp.fish-amritsari.png"
+          },
+          {
+            "category": "Vegetarian",
+            "foods": [
+              "Paneer malai tikka",
+              "tandoori paneer tikka",
+              "vegetable sheekh kebab"
+            ],
+            "image": "https://i.im.ge/2025/05/30/v4LNaC.tandoori-paneer-tikka.png"
+          },
+          {
+            "category": "Sides",
+            "foods": ["Naan", "garlic naan", "plain chips", "masala chips"],
+            "image": "https://i.im.ge/2025/05/30/v4DHfa.garlic-naan.png"
+          }
+        ],
+        "rating": 3.9,
+        "hours": "7:00 AM \u2013 11:00 PM",
+        "reviews": [
+          "forever classic",
+          "Whether you're craving a hearty curry or a flavorful tandoori dish, Open House promises an authentic Indian dining experience in Nairobi.",
+          "Delicious and authentic."
+        ],
+        "image": "https://i.im.ge/2025/05/30/v4awP8.openhouse.png"
+      },
+      {
+        "id": 3,
+        "name": "Big Five Restaurant & Bar,",
+        "address": "Mombasa Road, Nairobi",
+        "cuisines": ["African", "Asian", "Indian", "Continental"],
+        "menu": [
+          {
+            "category": "staters",
+            "foods": ["Swahili Rolls", "fries and Salsa", "Mshikaki"],
+            "image": "https://i.im.ge/2025/05/30/v4D3N1.fries-and-Salsa.png"
+          },
+          {
+            "category": "Beef",
+            "foods": [
+              "Nyama Choma",
+              "Grilled meat",
+              "garlic marinated Beef skewers"
+            ],
+            "image": "https://i.im.ge/2025/05/30/v4L1ma.nyamachoma.png"
+          },
+          {
+            "category": "Lamb",
+            "foods": ["Tender lamb", "Lamb Rajasthani", "Tumbukiza"],
+            "image": "https://i.im.ge/2025/05/30/v4Iz4C.Lamb-Rajasthani.png"
+          },
+          {
+            "category": "Asian-Inspired Dishes",
+            "foods": [
+              "beetroot sushi rolls",
+              "Thai Coconut soup",
+              "Thai Green Curry",
+              "Glazed chicken breast soy"
+            ],
+            "image": "https://i.im.ge/2025/05/30/v4LPAq.Thai-Coconut-soup.png"
+          },
+          {
+            "category": "Continental",
+            "foods": ["fish and chips", "Penna pasta", "Big 5 burger"],
+            "image": "https://i.im.ge/2025/05/30/v47sYC.Big-5-burger.png"
+          }
+        ],
+        "rating": 5.0,
+        "hours": "7:00 AM \u2013 11:00 PM",
+        "reviews": [
+          "The spacious veranda provides a comfortable environment to enjoy meals while observing wildlife such as giraffes and zebras in their natural habitat",
+          "Enjoy meals with a view of wildlife in Nairobi National Park.",
+          "Loved the nyama choma here."
+        ],
+        "image": "https://i.im.ge/2025/05/30/v4sHfM.Big5.png"
+      },
+      {
+        "id": 4,
+        "name": "Hero Restaurant",
+        "address": "9th Floor, Trademark Hotel, Village Market, Limuru Road, Nairobi, Kenya",
+        "cuisines": ["Japanese cuisine"],
+        "menu": [
+          {
+            "category": "Sushi Rolls",
+            "foods": ["Tugulu Roll", "Salmon Tataki Roll"],
+            "image": "https://i.im.ge/2025/05/30/v4LCw1.Tugulu-Roll.png"
+          },
+          {
+            "category": "Small Plates",
+            "foods": [
+              "Panko Breaded Chicken Bao Buns with kimchi mayo",
+              "Pressed Pork Belly Skewers",
+              "Jumbo Prawn Tempura"
+            ],
+            "image": "https://i.im.ge/2025/05/30/v4LIyK.Pressed-Pork-Belly-Skewers.png"
+          },
+          {
+            "category": "Soups",
+            "foods": [
+              "White Miso Soup with soy-braised pork belly",
+              "Clear Mushroom Soup with aged Parma ham"
+            ],
+            "image": "https://i.im.ge/2025/05/30/v47HiD.Clear-Mushroom-Soup-with-aged-Parma-ham.png"
+          },
+          {
+            "category": "Desserts",
+            "foods": [
+              "Uncle Obama dessert",
+              "banana ice cream",
+              "banana bread",
+              "exotic caramel"
+            ],
+            "image": "https://i.im.ge/2025/05/30/v47doD.banana-ice-cream.png"
+          },
+          {
+            "category": "Cocktails & Beverages",
+            "foods": ["Tomatina", "Kijabe Kayama", "I Am Groot"],
+            "image": "https://i.im.ge/2025/05/30/v4LtHp.Tomatina.png"
+          }
+        ],
+        "rating": 3.6,
+        "hours": "7:00 AM \u2013 11:00 PM",
+        "reviews": [
+          "Memorable fusion of imaginative decor, innovative cuisine, and exceptional cocktails.",
+          "Nice ambiance and tasty food.",
+          "My favorite local joint."
+        ],
+        "image": "https://i.im.ge/2025/05/30/v4arur.heros.png"
+      },
+      {
+        "id": 5,
+        "name": "The Talisman Restaurant",
+        "address": "320 Ngong Road, Karen, Nairobi, Kenya",
+        "cuisines": ["continental", "African"],
+        "menu": [
+          {
+            "category": "Stater",
+            "foods": ["Hot honey & goat cheese toast", "Black Dragon Maki"],
+            "image": "https://i.im.ge/2025/05/30/v47hOf.Black-Dragon-Maki.png"
+          },
+          {
+            "category": "Mains",
+            "foods": [
+              "Chinese Stir-Fry chilli Beef",
+              "Roasted Aubergine & Lemon Risotto"
+            ],
+            "image": "https://i.im.ge/2025/05/30/v4LLH9.Roasted-Aubergine-Lemon-Risotto.png"
+          },
+          {
+            "category": "Sushi",
+            "foods": ["Crispy Teriyaki", "Fresh Tuna Crudo", "Salmon Rice  Bowl"],
+            "image": "https://i.im.ge/2025/05/30/v4DQKm.Crispy-Teriyaki.png"
+          },
+          {
+            "category": "Desserts",
+            "foods": ["Choclate Fondant", "Talisman Gold", "Sticky Date Pudding"],
+            "image": "https://i.im.ge/2025/05/30/v4LmbD.Sticky-Date-Pudding.png"
+          },
+          {
+            "category": "Beverages",
+            "food": ["Coffe & Cocoa", "Milkshakes & smoothies", "Tali teas"],
+            "image": "https://i.im.ge/2025/05/30/v47e21.Coffe-Cocoa.png"
+          }
+        ],
+        "rating": 3.8,
+        "hours": "7:00 AM \u2013 11:00 PM",
+        "reviews": [
+          "It's advisable to make a reservation in advance, especially during weekends, as the restaurant is quite popular",
+          "My favorite local joint.",
+          "Perfect spot for lunch."
+        ],
+        "image": "https://i.im.ge/2025/05/30/v47ryX.talisman.png"
+      },
+      {
+        "id": 6,
+        "name": "La Cascina",
+        "address": " The Hub Karen, Dagoretti Road, Nairobi, Kenya",
+        "cuisines": ["Italian"],
+        "menu": [
+          {
+            "category": "BreakFast",
+            "foods": ["English Breakfast", "Salata", "Golosa"],
+            "image": "https://i.im.ge/2025/05/30/v4DXiW.English-Breakfast.png"
+          },
+          {
+            "category": "Vegeterian",
+            "foods": [
+              "Fungoso",
+              "Arincino di riso",
+              "Salmone in due",
+              "Caprese e verdure grigliate"
+            ],
+            "image": "https://i.im.ge/2025/05/30/v4Lim8.Salmone.png"
+          },
+          {
+            "category": "Pasta",
+            "foods": ["La Carbanara", "Ragu alla Bolognese", "L'Arrabiata"],
+            "image": "https://i.im.ge/2025/05/30/v4IZWM.La-Carbanara.png"
+          },
+          {
+            "category": "Desserts",
+            "foods": [
+              "Torta di mele",
+              "Millefogilie",
+              "Tiramusi",
+              "Profiteroles"
+            ],
+            "image": "https://i.im.ge/2025/05/30/v4LA1P.Torta-di-mele.png"
+          },
+          {
+            "category": "Wine",
+            "foods": [
+              "house wine",
+              "Fragolino Bianco",
+              "Sparkling Extra Dry",
+              "Merlot Veneto"
+            ],
+            "image": "https://i.im.ge/2025/05/30/v4DxSP.Fragolino-Bianco.png"
+          }
+        ],
+        "rating": 4.4,
+        "hours": "7:00 AM \u2013 11:00 PM",
+        "reviews": [
+          "Will definitely come back!",
+          "Whether you're in the mood for a hearty Italian meal, a sweet gelato treat, or a relaxing coffee break, La Cascina offers a delightful experience in the heart of Karen.",
+          "My favorite local joint."
+        ],
+        "image": "https://i.im.ge/2025/05/30/v4a1QT.lacascina.png"
+      },
+      {
+        "id": 7,
+        "name": "Habesha Restaurant",
+        "address": "Argwings Kodhek Road, Hurlingham, Nairobi, Kenya",
+        "cuisines": ["Ethiopian", "African"],
+        "menu": [
+          {
+            "category": "Starters",
+            "foods": ["Sambusas", "Azifa", "Timatim Salad"],
+            "image": "https://i.im.ge/2025/05/30/v4L9XM.Sambusas.png"
+          },
+          {
+            "category": "Main Dishes",
+            "foods": ["Doro Wot", "Kitfo", "Shiro Wot", "Tibs", "Atakilt Wot"],
+            "image": "https://i.im.ge/2025/05/30/v4Dolr.Doro-Wot.png"
+          },
+          {
+            "category": "Vegeterian",
+            "foods": ["Yetsom Beyaynetu", "Shiro", "Misir Wot", "Fossolia"],
+            "image": "https://i.im.ge/2025/05/30/v4LEZf.Yetsom-Beyaynetu.png"
+          },
+          {
+            "category": "Dessert",
+            "foods": [
+              "Dabo Kolo",
+              "Atayef,Yetsom Beyaynetu",
+              "Fruit Salads with Honey and Lime",
+              "T'ej-Infused Treats"
+            ],
+            "image": "https://i.im.ge/2025/05/30/v4Dcrm.Fruit-Salads.png"
+          },
+          {
+            "category": "sides",
+            "food": ["Injera", "Ayib", "Gomen"],
+            "image": "https://i.im.ge/2025/05/30/v4I1QD.injera.png"
+          }
+        ],
+        "rating": 4.6,
+        "hours": "7:00 AM \u2013 11:00 PM",
+        "reviews": [
+          "Delicious and authentic.",
+          "Will definitely come back!",
+          "Loved the Injera."
+        ],
+        "image": "https://i.im.ge/2025/05/30/v4sGIq.habesha.png"
+      },
+      {
+        "id": 8,
+        "name": "Seven Seafood & Grill's",
+        "address": " ABC Place, Waiyaki Way, Westlands, Nairobi, Kenya",
+        "cuisines": ["Kenyan", "African"],
+        "menu": [
+          {
+            "category": "Seafood",
+            "foods": ["Oysters", "Lobster", "Jumbo Prawns", "Malindi Sole"],
+            "image": "https://i.im.ge/2025/05/30/v4IbqK.Jumbo-Prawns.png"
+          },
+          {
+            "category": "Steak",
+            "foods": ["Bone-In Ribeye", "Fillet Mignon", "T-Bone"],
+            "image": "https://i.im.ge/2025/05/30/v4DF7c.Fillet-Mignon.png"
+          },
+          {
+            "category": "Signature Dishes",
+            "foods": ["Seared Duck Breast", "Kingfish over Pearl Barley Risotto"],
+            "image": "https://i.im.ge/2025/05/30/v4LjhY.Seared-Duck-Breast.png"
+          },
+          {
+            "category": "Vegetarian",
+            "foods": [
+              "Pearl Barley and Roasted Beetroot Salad",
+              "Quinoa and Grilled Zucchini Salad",
+              "Char Grilled Asparagus and Halloumi Salad"
+            ],
+            "image": "https://i.im.ge/2025/05/30/v4LsYz.Pearl-Barley.png"
+          },
+          {
+            "category": "sides",
+            "foods": [
+              "House Fries",
+              "Roasted Garlic Mash",
+              "Steamed Tenderstem Broccoli"
+            ],
+            "image": "https://i.im.ge/2025/05/30/v4Lh1X.Roasted-Garlic-Mash.png"
+          }
+        ],
+        "rating": 4.2,
+        "hours": "7:00 AM \u2013 11:00 PM",
+        "reviews": [
+          "Loved the nyama choma here.",
+          "Nice ambiance and tasty food.",
+          "Great service and amazing dishes."
+        ],
+        "image": "https://i.im.ge/2025/05/30/v4sVJX.7seafood.png"
+      },
+      {
+        "id": 9,
+        "name": "Sankara Rooftop",
+        "address": "Westlands, Nairobi",
+        "cuisines": ["Kenyan", "Continental"],
+        "menu": [
+          {
+            "category": "Bar Crunch",
+            "foods": [
+              "Jerked’ Up Nachos",
+              "Gourmet Nuts",
+              "Garlic Bread",
+              "Mogo & Lime Cheese Straws"
+            ],
+            "image": "https://i.im.ge/2025/05/30/v4I53T.Jerked-Up-Nachos.png"
+          },
+          {
+            "category": "Keto Bowls:",
+            "foods": ["The Iron Man", "Lean Mean Bowl"],
+            "image": "https://i.im.ge/2025/05/30/v4Ivtp.Lean-Mean-Bowl.png"
+          },
+          {
+            "category": "Wings & Seafood",
+            "foods": [
+              "Buffalo Chicken Wings",
+              "Smoked Honey & Bourbon Wings",
+              "Calamari Fritos",
+              "Gambas Al Ajilio"
+            ],
+            "image": "https://i.im.ge/2025/05/30/v47jh0.Buffalo-Chicken-Wings.png"
+          },
+          {
+            "category": "Sides",
+            "foods": [
+              "Parmesan Truffle Fries",
+              "Regular Salted Fries",
+              "Garlicky Butter Fries"
+            ],
+            "image": "https://i.im.ge/2025/05/30/v4LqhS.Parmesan-Truffle-Fries.png"
+          },
+          {
+            "category": "Dessert",
+            "foods": [
+              "Salted Caramel Cheesecake",
+              "Defined Toblerone",
+              "Tuscan Trifle",
+              "Organic Fruit"
+            ],
+            "image": "https://i.im.ge/2025/05/30/v4L0Zh.Salted-Caramel-Cheesecake.png"
+          }
+        ],
+        "rating": 4.4,
+        "hours": "7:00 AM \u2013 11:00 PM",
+        "reviews": [
+          "Nice ambiance and tasty food.",
+          "Will definitely come back!",
+          "My favorite local joint."
+        ],
+        "image": "https://i.im.ge/2025/05/30/v4aZRW.sankara.png"
+      },
+      {
+        "id": 10,
+        "name": "CJ's",
+        "address": "Koinange Street, Nairobi, Kenya",
+        "cuisines": ["Kenyan", "African"],
+        "menu": [
+          {
+            "category": "Breakfast",
+            "foods": [
+              "Loaded Chapati Combo",
+              "Chicken & Egg Wrap Combo",
+              "Omelette Combo",
+              "Fried Chicken & Waffles Benedict"
+            ],
+            "image": "https://i.im.ge/2025/05/30/v4L2WJ.Omelette-Combo.png"
+          },
+          {
+            "category": "Salads",
+            "foods": ["Chipotle Chicken Bowl", "Cobb Salad", "Caesar Salad"],
+            "image": "https://i.im.ge/2025/05/30/v474Ap.Cobb-Salad.png"
+          },
+          {
+            "category": "Main Courses",
+            "foods": [
+              "Chicken Alfredo",
+              "Mushroom Beef Steak Combo",
+              "Caribbean Jerk Chicken"
+            ],
+            "image": "https://i.im.ge/2025/05/30/v47NaL.Chicken-Alfredo.png"
+          },
+          {
+            "category": "Drinks & Desserts",
+            "foods": [
+              "Milkshakes",
+              "Fruit Smoothies",
+              "Signature Mojitos",
+              "Full Cakes"
+            ],
+            "image": "https://i.im.ge/2025/05/30/v4LMor.Milkshakes.png"
+          },
+          {
+            "category": "Pizzas",
+            "foods": [
+              "Supreme Beef",
+              "Chicken Hawaiian",
+              "Margherita",
+              "Jerk Chicken"
+            ],
+            "image": "https://i.im.ge/2025/05/30/v47A1a.Chicken-Hawaiian.png"
+          }
+        ],
+        "rating": 4.9,
+        "hours": "7:00 AM \u2013 11:00 PM",
+        "reviews": [
+          "Great service and amazing dishes.",
+          "My favorite local joint.",
+          "Fresh ingredients and great portions."
+        ],
+        "image": "https://i.im.ge/2025/05/30/v4sng4.cjs.png"
+      }
+    ]
+  }
+  
